@@ -282,7 +282,7 @@ Questo progetto è protetto da una Licenza d'Uso Proprietaria Limitata. Vedere i
 
 Nikomatt69 - [GitHub](https://github.com/nikomatt69)
 
-Link al Progetto: [https://github.com/nikomatt69/cad-cam-app-main](https://github.com/nikomatt69/cad-cam-app-main)
+Link al Progetto: [https://github.com/cadcamfun/cadcamfun](https://github.com/cadcamfun/cadcamfun)
 
 Sito Web: [https://cadcamfun.xyz](https://cadcamfun.xyz)
 
@@ -291,4 +291,3 @@ Sito Web: [https://cadcamfun.xyz](https://cadcamfun.xyz)
 ---
 
 © 2025 CAD/CAM FUN. Tutti i diritti riservati.
-# cadcamfun-aicadcam
